@@ -1,0 +1,4 @@
+1 Bilet urban 3
+2 Bilet interurban 6
+3 Abonament zilnic 10
+4 Abonament saptamanal 40
